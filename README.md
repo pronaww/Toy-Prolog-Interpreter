@@ -1,6 +1,6 @@
 # Toy-Prolog-Interpreter
 
-n this assignment, you will write a simplified version of a Prolog interpreter in OCaml.
+In this assignment, you will write a simplified version of a Prolog interpreter in OCaml.
 
 You will first define an OCaml data type to represent the structure of a legitimate Prolog program.
 
